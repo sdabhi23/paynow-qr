@@ -2,6 +2,12 @@
 
 Generates static QR codes for use with PayNow
 
+## Roadmap
+
+* [x] Basic QR generation
+* [ ] More detailed implementation (similar to [fullstacksys.com PayNow QR Code Generator](https://www.fullstacksys.com/paynow-qr-code-generator))
+* [ ] Allow more comprehensive styling of QR code (similar to [qrlogo.io PayNow QR Code Generator](https://qrlogo.io/type/paynow))
+
 ## References
 
 * [xkjyeah/paynow-qr-generator](https://github.com/xkjyeah/paynow-qr-generator/)
