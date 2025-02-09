@@ -1,8 +1,9 @@
-# React + Vite
+# PayNow QR Generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Generates static QR codes for use with PayNow
 
-Currently, two official plugins are available:
+## References
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* [xkjyeah/paynow-qr-generator](https://github.com/xkjyeah/paynow-qr-generator/)
+* [chengkiang/paynow.js](https://gist.github.com/chengkiang/7e1c4899768245570cc49c7d23bc394c)
+* [EMV QR Code Specification for Payment Systems](https://www.emvco.com/specifications/emv-qr-code-specification-for-payment-systems-emv-qrcps-merchant-presented-mode/)
